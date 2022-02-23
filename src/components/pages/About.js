@@ -1,6 +1,5 @@
 import profilePic from '../img/1.jpeg';
 import { FaWhatsapp, FaReact, FaHtml5, FaCss3Alt, FaJs, FaBootstrap, FaSass, FaNodeJs, FaNpm, FaPhp, FaInstagram, FaTwitter } from "react-icons/fa";
-import { Link } from 'react-router-dom';
 
 const About = () => {
     return (
